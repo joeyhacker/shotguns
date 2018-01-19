@@ -1,0 +1,16 @@
+{
+  "appName": "app-123456",
+  "appJar": "/Users/joey/shotguns-test/target/shotguns-test-1.0-SNAPSHOT.jar",
+  "mainClass": "com.joey.shotguns.Test",
+  "dependencies": [
+    "/Users/joey/shotguns-test/target/libs"
+  ],
+  "environment": {
+    "foo": "bar"
+  },
+  "containers": 2,
+  "requirement": {
+    "memory": 256,
+    "virtualCores": 1
+  }
+}
