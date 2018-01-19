@@ -1,6 +1,12 @@
 # Shotguns
 It's a framework help you deploy distribution application on yarn
 
+## Building
+
+1. cd shotguns-core
+
+2. mvn package
+
 ## Running 
 
 1. make sure you have a set of hadoop cluster
